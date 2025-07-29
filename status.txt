@@ -1,0 +1,55 @@
+On branch master
+
+No commits yet
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	Firefox Installer.exe
+	auto-service-annotations-1.1.1-sources.jar
+	auto-service-annotations-1.1.1.jar
+	byte-buddy-1.17.6-sources.jar
+	byte-buddy-1.17.6.jar
+	commons-exec-1.5.0-sources.jar
+	commons-exec-1.5.0.jar
+	error_prone_annotations-2.38.0-sources.jar
+	error_prone_annotations-2.38.0.jar
+	geckodriver.exe
+	guava-33.4.8-jre-sources.jar
+	guava-33.4.8-jre.jar
+	j2objc-annotations-3.0.0-sources.jar
+	j2objc-annotations-3.0.0.jar
+	selenium-api-4.34.0-sources.jar
+	selenium-api-4.34.0.jar
+	selenium-chrome-driver-4.34.0-sources.jar
+	selenium-chrome-driver-4.34.0.jar
+	selenium-chromium-driver-4.34.0-sources.jar
+	selenium-chromium-driver-4.34.0.jar
+	selenium-devtools-v137-4.34.0-sources.jar
+	selenium-devtools-v137-4.34.0.jar
+	selenium-devtools-v138-4.34.0-sources.jar
+	selenium-devtools-v138-4.34.0.jar
+	selenium-edge-driver-4.34.0-sources.jar
+	selenium-edge-driver-4.34.0.jar
+	selenium-firefox-driver-4.34.0-sources.jar
+	selenium-firefox-driver-4.34.0.jar
+	selenium-http-4.34.0-sources.jar
+	selenium-http-4.34.0.jar
+	selenium-ie-driver-4.34.0-sources.jar
+	selenium-ie-driver-4.34.0.jar
+	selenium-java-4.34.0-sources.jar
+	selenium-java-4.34.0.jar
+	selenium-json-4.34.0-sources.jar
+	selenium-json-4.34.0.jar
+	selenium-manager-4.34.0-sources.jar
+	selenium-manager-4.34.0.jar
+	selenium-os-4.34.0-sources.jar
+	selenium-os-4.34.0.jar
+	selenium-remote-driver-4.34.0-sources.jar
+	selenium-remote-driver-4.34.0.jar
+	selenium-safari-driver-4.34.0-sources.jar
+	selenium-safari-driver-4.34.0.jar
+	selenium-support-4.34.0-sources.jar
+	selenium-support-4.34.0.jar
+	status.txt
+
+nothing added to commit but untracked files present (use "git add" to track)
